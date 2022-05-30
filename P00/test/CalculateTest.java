@@ -6,7 +6,6 @@ import org.junit.Test;
 
 public class CalculateTest {
 	
-private static final int ArithmeticException = 0;
 int a,b;
 Calculator cal;
 
